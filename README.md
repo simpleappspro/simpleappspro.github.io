@@ -65,10 +65,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2021-11-18
 
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at simpleappspro@yahoo.com.
-
 
 ### Gas Station Guide
 
@@ -131,10 +127,6 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2021-11-23
-
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at simpleappspro@gmail.com.
 
 
 
