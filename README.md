@@ -252,9 +252,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-04-01
 
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at simpleappspro@yahoo.com.
 
 ### Dog Breeds
 
@@ -318,9 +315,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2022-07-06
 
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at simpleappspro@yahoo.com.
 
 
 ### Support or Contact
