@@ -380,6 +380,16 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 This policy is effective as of 2022-08-30
 
 
+### Chat AI
+
+**[Privacy Policy](https://www.google.com/policies/privacy/)**
+
+**How to remove your account from the application?**
+1. On the home screen, tap on your avatar image
+2. After going to your account settings screen, click “Delete account”
+
+
+
 
 ### Support or Contact
 
