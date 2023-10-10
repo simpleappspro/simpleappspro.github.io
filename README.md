@@ -385,10 +385,9 @@ This policy is effective as of 2022-08-30
 **[Privacy Policy](https://simpleappspro.github.io/privacy_chat_ai_android.html)**
 
 **How to remove your account from the application?**
-1. On the home screen, tap on your avatar image
-![home screen!](image1.png "home screen")
-2. After going to your account settings screen, click “Delete account”
-![settings screen!](image2.png "settings screen")
+| 1. On the home screen, tap on your avatar image | 2. After going to your account settings screen, click “Delete account”|
+|------------------------------|------------------------------|
+| ![home screen!](image1.png)  | ![settings screen!](image2.png) |
 
 
 
