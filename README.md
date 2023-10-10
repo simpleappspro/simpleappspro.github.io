@@ -382,7 +382,7 @@ This policy is effective as of 2022-08-30
 
 ### Chat AI
 
-**[Privacy Policy](https://www.google.com/policies/privacy/)**
+**[Privacy Policy](https://simpleappspro.github.io/privacy_chat_ai_android.html)**
 
 **How to remove your account from the application?**
 1. On the home screen, tap on your avatar image
