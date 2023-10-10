@@ -386,7 +386,9 @@ This policy is effective as of 2022-08-30
 
 **How to remove your account from the application?**
 1. On the home screen, tap on your avatar image
+![home screen!](/assets/images/san-juan-mountains.jpg "home screen")
 2. After going to your account settings screen, click “Delete account”
+![settings screen!](/assets/images/san-juan-mountains.jpg "settings screen")
 
 
 
